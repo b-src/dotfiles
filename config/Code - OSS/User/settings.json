@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "latex-workshop.view.pdf.viewer": "tab",
+
+    "vscode-neovim.neovimExecutablePaths.linux": "/bin/nvim"
+}
