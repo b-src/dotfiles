@@ -1,0 +1,9 @@
+asvetliakov.vscode-neovim
+James-Yu.latex-workshop
+ms-python.python
+ms-toolsai.jupyter
+ms-toolsai.jupyter-keymap
+ms-toolsai.jupyter-renderers
+prime31.zig
+rust-lang.rust
+tiehuis.zig

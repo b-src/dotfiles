@@ -1,2 +1,2 @@
-EXCLUDES="code_extensions"
+EXCLUDES="vscode_extension_list.txt"
 UNDOTTED="Code\ -\ OSS"
